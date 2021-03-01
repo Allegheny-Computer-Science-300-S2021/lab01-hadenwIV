@@ -1,14 +1,15 @@
 ## Date: 1 March 2021
 
-## Name: Add Your Name Here
+## Name: William Haden
 
 ## Lab01, Instructions
 
 In this practical assignment, you are to add your responses to the questions in blue of the lab. Your reflection should be about a page and contain clear and meaningful language. Please use markdown language to format your reflection piece.
 
-Please write below this line to address the above-mentioned points. Replace the word, `TODO` with your response.
+Please write below this line to address the above-mentioned points. Replace the word,  with your response.
 
-### First Tool
+### First Tool  
+ `SIFT`
 
  1. What kind of research is this method or tool used for?
  `TODO`
@@ -23,7 +24,7 @@ Please write below this line to address the above-mentioned points. Replace the 
 
 
 ### Second Tool
-
+  `MEGA(Molecular Evolutionary Genetics Analysis)`
  1. What kind of research is this method or tool used for?
  `TODO`
 
