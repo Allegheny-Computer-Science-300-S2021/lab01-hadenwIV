@@ -43,12 +43,29 @@ Please write below this line to address the above-mentioned points. Replace the 
   `MEGA(Molecular Evolutionary Genetics Analysis)`
 
  1. What kind of research is this method or tool used for?
- `TODO`
+ ` This tool statistical analysis of molecular evolution and for constructing
+ phylogenetic trees which includes many sophisticated methods and tools for
+ phylogenomics and phylomedicine. The computing cores for many molecular
+ evolutionary analyses to see the trees between genes. The exploration of
+ sequence alignments, the enumeration of sequence divergence, the construction
+ and visualization of phylogenetic trees, and the testing of
+ molecular evolutionary hypotheses are some of the other features of this
+ software.`
 
  2. How does this method or tool work? What does it do?
- `TODO`
+ `The method MEGA uses seems to be the integration of sequence
+acquisition with evolutionary analysis. It contains an array of input data and multiple
+results explorers for visual representation. The sequence alignment editor uses
+genetic code to generate captions for distance matrices, phylogenies, tests, alignments.`
 
  3. Why do you think that this method or tool was necessary to develop?
- `TODO`
+ `The method was necessary to develop  due to the fact as a common place rather
+ than having implements many analytical methods and tools. A more  efficient tool
+ that can perform both sequence analysis and phylogenetic analysis in simple
+ way seems to be better than having multiple programs taking up space. `
 
- 4. What undesirable consequences could result from the misuse of this method of tool? `TODO`
+ 4. What undesirable consequences could result from the misuse of this method of tool?
+ `Some undesirable consequences is the updated version of the is no longer
+ compatible with mac user or other programs. Another consequence may be that the
+ trees being analysis could misinterpreted which would be difficult if the
+ information for the continuation of the experiment was incorrect    `
