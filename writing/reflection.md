@@ -7,9 +7,12 @@
 In this practical assignment, you are to add your responses to the questions in
 blue of the lab. Your reflection should be about a page and contain clear and
 meaningful language. Please use markdown language to format your reflection
- piece.
+piece.
 
-## First Tool
+Please write below this line to address the above-mentioned points. Replace the
+word,  with your response.
+
+### First Tool
 
  SIFT
  1. What kind of research is this method or tool used for?
@@ -41,7 +44,7 @@ to predict could be wrong  also the research being conducted can go completely
   itself if this were to happen
 
 
-##   Second Tool
+###   Second Tool
 
   MEGA(Molecular Evolutionary Genetics Analysis)
  1. What kind of research is this method or tool used for?
