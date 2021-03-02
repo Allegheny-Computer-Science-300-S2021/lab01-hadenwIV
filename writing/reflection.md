@@ -9,19 +9,19 @@ In this practical assignment, you are to add your responses to the questions in 
 Please write below this line to address the above-mentioned points. Replace the word,  with your response.
 
 ### First Tool  
- `SIFT`
+ SIFT
 
  1. What kind of research is this method or tool used for?
- `SIFT is a prediction tool that uses the  state of having the same or
+ SIFT is a prediction tool that uses the  state of having the same or
  similar relation, relative position, or structure of amino acids. The predictions
-  are the effect of coding variants on protein function  `
+  are the effect of coding variants on protein function  
 
  2. How does this method or tool work? What does it do?
- `SIFT looks at the composition of amino acids and computes the score. Using an
+ SIFT looks at the composition of amino acids and computes the score. Using an
  algorithm a SIFT score is a normalized probability of observing the new amino
  acid at that position, and ranges from 0 to 1. A value of between 0 and 0.05
  is predicted to affect protein function Using the HumVar and HumDiv data to
- Ensembl, RefSeq and UCSC Known ids using the UniProtKB id mapping tool `
+ Ensembl, RefSeq and UCSC Known ids using the UniProtKB id mapping tool.
 
  3. Why do you think that this method or tool was necessary to develop?
  `This was most likely developed as a much more efficient way to identify what
