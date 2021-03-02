@@ -9,9 +9,6 @@ blue of the lab. Your reflection should be about a page and contain clear and
 meaningful language. Please use markdown language to format your reflection
  piece.
 
-Please write below this line to address the above-mentioned points. Replace the
-word,  with your response.
-
 ## First Tool
 
  SIFT
