@@ -8,7 +8,8 @@ In this practical assignment, you are to add your responses to the questions in 
 
 Please write below this line to address the above-mentioned points. Replace the word,  with your response.
 
-### First Tool  
+### First Tool
+
  SIFT
 
  1. What kind of research is this method or tool used for?
@@ -40,6 +41,7 @@ Please write below this line to address the above-mentioned points. Replace the 
 
 
 ### Second Tool
+
   MEGA(Molecular Evolutionary Genetics Analysis)
 
  1. What kind of research is this method or tool used for?
