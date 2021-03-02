@@ -8,7 +8,7 @@ In this practical assignment, you are to add your responses to the questions in 
 
 Please write below this line to address the above-mentioned points. Replace the word,  with your response.
 
-### First Tool
+## First Tool
 
  SIFT
 
@@ -40,7 +40,7 @@ Please write below this line to address the above-mentioned points. Replace the 
   if this were to happen
 
 
-### Second Tool
+## Second Tool
 
   MEGA(Molecular Evolutionary Genetics Analysis)
 
