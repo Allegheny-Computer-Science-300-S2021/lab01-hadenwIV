@@ -12,19 +12,36 @@ Please write below this line to address the above-mentioned points. Replace the 
  `SIFT`
 
  1. What kind of research is this method or tool used for?
- `TODO`
+ `SIFT is a prediction tool that uses the  state of having the same or
+ similar relation, relative position, or structure of amino acids. The predictions
+  are the effect of coding variants on protein function  `
 
  2. How does this method or tool work? What does it do?
- `TODO`
+ `SIFT looks at the composition of amino acids and computes the score. Using an
+ algorithm a SIFT score is a normalized probability of observing the new amino
+ acid at that position, and ranges from 0 to 1. A value of between 0 and 0.05
+ is predicted to affect protein function Using the HumVar and HumDiv data to
+ Ensembl, RefSeq and UCSC Known ids using the UniProtKB id mapping tool `
 
  3. Why do you think that this method or tool was necessary to develop?
- `TODO`
+ `This was most likely developed as a much more efficient way to identify what
+ are the causal variants for the phenotype or disease being studied since there
+ is millions of variants though not all the variants are currently there since
+ some could not  be mapped.  `
 
- 4. What undesirable consequences could result from the misuse of this method of tool? `TODO`
+ 4. What undesirable consequences could result from the misuse of this method of tool?
+ `An undesirable consequence of using this tool is sorting through the wrong data
+  thus making the wrong prediction for the reaction and the proteins it was trying to
+  predict could be wrong  also the research being conducted can go completely
+  in the wrong direction for the research at hand. The time , money, and energy
+  that could go into this false predictions may lead the method to be deemed
+  inefficient and unusable so it would benefit either the user or the product itself
+  if this were to happen    `
 
 
 ### Second Tool
   `MEGA(Molecular Evolutionary Genetics Analysis)`
+
  1. What kind of research is this method or tool used for?
  `TODO`
 
