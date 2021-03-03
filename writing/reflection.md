@@ -14,8 +14,6 @@ word,  with your response.
 
 ### First Tool
 
-SIFT
-
 1. What kind of research is this method or tool used for?
 SIFT is a prediction tool that uses the  state of having the same or
 similar relation, relative position, or structure of amino acids. The
@@ -46,8 +44,6 @@ itself if this were to happen
 
 
 ###   Second Tool
-
-MEGA(Molecular Evolutionary Genetics Analysis)
 
 1. What kind of research is this method or tool used for?
 This tool statistical analysis of molecular evolution and for constructing
